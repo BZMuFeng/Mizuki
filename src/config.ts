@@ -176,7 +176,7 @@ export const siteConfig: SiteConfig = {
 	favicon: [
 		// 留空以使用默认 favicon
 		// {
-		//   src: '/favicon/icon.png',    // 图标文件路径
+		//   src: '/favicon/New York Back Raise.png',    // 图标文件路径
 		//   theme: 'light',              // 可选，指定主题 'light' | 'dark'
 		//   sizes: '32x32',              // 可选，图标大小
 		// }
@@ -245,7 +245,7 @@ export const navBarConfig: NavBarConfig = {
 			children: [
 				{
 					name: "Bilibili",
-					url: "https://space.bilibili.com/701864046",
+					url: "https://space.bilibili.com/475069600",
 					external: true,
 					icon: "fa6-brands:bilibili",
 				},
@@ -340,9 +340,9 @@ export const navBarConfig: NavBarConfig = {
 };
 
 export const profileConfig: ProfileConfig = {
-	avatar: "assets/images/avatar.webp", // 相对于 /src 目录。如果以 '/' 开头，则相对于 /public 目录
-	name: "Matsuzaka Yuki",
-	bio: "The world is big, you have to go and see",
+	avatar: "assets/images/New York Back Raise.png", // 相对于 /src 目录。如果以 '/' 开头，则相对于 /public 目录
+	name: "白之沐风",
+	bio: "To the beats of heart, we will do the dance of love.",
 	typewriter: {
 		enable: true, // 启用个人简介打字机效果
 		speed: 80, // 打字速度（毫秒）
@@ -351,7 +351,7 @@ export const profileConfig: ProfileConfig = {
 		{
 			name: "Bilibli",
 			icon: "fa6-brands:bilibili",
-			url: "https://space.bilibili.com/701864046",
+			url: "https://space.bilibili.com/475069600",
 		},
 		{
 			name: "Gitee",
@@ -361,7 +361,7 @@ export const profileConfig: ProfileConfig = {
 		{
 			name: "GitHub",
 			icon: "fa6-brands:github",
-			url: "https://github.com/matsuzaka-yuki",
+			url: "https://github.com/BZMuFeng",
 		},
 		{
 			name: "Codeberg",
